@@ -1,0 +1,17 @@
+div
+{
+    width: 50%;
+    background: rebeccapurple;
+    float: left;
+}
+aside
+{
+    background-color: aquamarine;
+    float: left;
+}
+
+li
+{
+    list-style-type: none;
+    padding-left: 0px;
+}
